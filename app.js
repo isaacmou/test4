@@ -37,7 +37,10 @@ function showEnglish() {
     document.getElementById("btn29").style.display = "";
     document.getElementById("btn30").style.display = "";
     document.getElementById("btn31").style.display = "";
-    
+    document.getElementById("btn32").style.display = "";
+    document.getElementById("btn33").style.display = "";
+    document.getElementById("btn34").style.display = "";
+    document.getElementById("btn35").style.display = "";
     
 
 }
